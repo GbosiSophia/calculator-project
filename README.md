@@ -1,3 +1,4 @@
+
 # Sophia's Calculator
 
 A simple calculator built with HTML, CSS and JavaScript.
@@ -17,3 +18,7 @@ A simple calculator built with HTML, CSS and JavaScript.
 
 ## Author  
 Sophia Gbosi
+
+# calculator-project
+A simple calculator project I built using HTML, CSS and JavaScript.
+
