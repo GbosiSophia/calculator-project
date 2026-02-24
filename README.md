@@ -4,7 +4,7 @@
 A simple calculator built with HTML, CSS and JavaScript.
 
 ## Live Demo
-[---RENDER LINK--]
+https://sophias-calculator.onrender.com
 
 ## How to Run Locally 
 1. Download the project
